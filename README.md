@@ -1,4 +1,4 @@
-# E-Circle — Recycler + Admin Web Portal (Frontend)
+# E-Circle — Recycler + Admin Web Portal 
 
 Frontend-only build per spec: React + Vite + Tailwind v4 + React Router + Framer Motion + Recharts + Lucide.
 All 26 pages implemented. No sidebar anywhere — top nav only, collapses to a top dropdown on mobile.
